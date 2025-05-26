@@ -1,7 +1,6 @@
 <h1 align="center">Olá, meu nome é Matheus Pomoviski</h1>
 <h3 align="center">Desenvolvedor de Software | Criando Aplicações Eficientes e Escaláveis</h3>
 
-- 🔭 Estou trabalhando atualmente na melhoria do projeto [Shape 2025](https://github.com/matheuspomoviski/projeto_react_shape2025)
 
 - 🌱 Sempre aprimorando meus conhecimentos sobre **Next.js, React.js, JavaScript, Node.js e interfaces envolvendo UX e UI**
 
